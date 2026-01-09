@@ -1,24 +1,24 @@
 {
   "version": "1.0.0",
-  "rss": "<LINK TO RSS FEED>",
+  "rss": "http://noon12.iptime.org:8080/news.xml",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "1459111473342054562",
+    "smallImageText": "Bungcher",
+    "smallImageKey": "iicon"
   },
   "servers": [
     {
       "id": "bung-1.21.11",
       "name": "bung (Minecraft 1.21.11)",
       "description": "bung Running Minecraft 1.21.11 (Fabric v0.18.4)",
-      "icon": null,
+      "icon": "https://github.com/december3723/bung12.git/servers/bung-1.21.11/icon.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "bung.n-e.kr:25565",
       "minecraftVersion": "1.21.11",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "a jang playing",
+        "largeImageText": "",
+        "largeImageKey": "white"
       },
       "mainServer": false,
       "autoconnect": false,

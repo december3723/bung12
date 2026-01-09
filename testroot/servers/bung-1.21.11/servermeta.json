@@ -5,11 +5,11 @@
     "name": "bung (Minecraft 1.21.11)",
     "description": "bung Running Minecraft 1.21.11 (Fabric v0.18.4)",
     "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
-    "address": "localhost:25565",
+    "address": "bung.n-e.kr:25565",
     "discord": {
-      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      "shortId": "a jang playing",
+      "largeImageText": "",
+      "largeImageKey": "white"
     },
     "mainServer": false,
     "autoconnect": false
